@@ -1,0 +1,17 @@
+#content{
+    text-align: center;
+    color: white;
+    padding-top: 25%
+}
+body{
+    background-image: url(./image/image3.jpeg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 70px;
+}
+hr{
+    width: 200px;
+}
+html{
+    hight: 100%;
+}
